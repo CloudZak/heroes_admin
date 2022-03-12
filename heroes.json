@@ -1,0 +1,47 @@
+{
+  "heroes": [
+    {
+      "id": "961755c8-7113-45f2-968e-b8c98c15923e",
+      "name": "Новый герой",
+      "description": "Ебу все, что движется",
+      "element": "fire"
+    },
+    {
+      "id": "b2700d26-ee86-4d13-9f75-45a093a028db",
+      "name": "Хахотун",
+      "description": "Хахахах, хочу и хахочу",
+      "element": "wind"
+    },
+    {
+      "id": "3ac56bb4-a02f-41d5-9ee2-f8b4cfb7ac22",
+      "name": "Gag Real",
+      "description": "Shish god damn, i'm good",
+      "element": "earth"
+    },
+    {
+      "id": "48982dcd-3ba3-4a24-99ea-c9cd2dcd7a25",
+      "name": "Hacker Man",
+      "description": "I hack u mom, bitch!",
+      "element": "fire"
+    },
+    {
+      "id": "9d32d526-aa9d-427f-99b2-20ad752dccef",
+      "name": "Van",
+      "description": "Hello! I'm Van",
+      "element": "water"
+    },
+    {
+      "id": "7ebabe4c-5441-4d5d-8792-fd2685c6e5dd",
+      "name": "Anonim",
+      "description": "Just another man, dude)))",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    "all",
+    "fire",
+    "water",
+    "wind",
+    "earth"
+  ]
+}
