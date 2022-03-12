@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/heroes_admin/static/css/main.ff8d3b76.chunk.css",
+    "main.js": "/heroes_admin/static/js/main.ed9f11b0.chunk.js",
+    "main.js.map": "/heroes_admin/static/js/main.ed9f11b0.chunk.js.map",
+    "runtime-main.js": "/heroes_admin/static/js/runtime-main.52a34a01.js",
+    "runtime-main.js.map": "/heroes_admin/static/js/runtime-main.52a34a01.js.map",
+    "static/css/2.c62e3214.chunk.css": "/heroes_admin/static/css/2.c62e3214.chunk.css",
+    "static/js/2.aa538f86.chunk.js": "/heroes_admin/static/js/2.aa538f86.chunk.js",
+    "static/js/2.aa538f86.chunk.js.map": "/heroes_admin/static/js/2.aa538f86.chunk.js.map",
+    "index.html": "/heroes_admin/index.html",
+    "static/css/2.c62e3214.chunk.css.map": "/heroes_admin/static/css/2.c62e3214.chunk.css.map",
+    "static/css/main.ff8d3b76.chunk.css.map": "/heroes_admin/static/css/main.ff8d3b76.chunk.css.map",
+    "static/js/2.aa538f86.chunk.js.LICENSE.txt": "/heroes_admin/static/js/2.aa538f86.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/heroes_admin/static/media/hero_bg.0540b794.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52a34a01.js",
+    "static/css/2.c62e3214.chunk.css",
+    "static/js/2.aa538f86.chunk.js",
+    "static/css/main.ff8d3b76.chunk.css",
+    "static/js/main.ed9f11b0.chunk.js"
+  ]
+}
